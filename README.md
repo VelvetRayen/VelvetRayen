@@ -38,11 +38,11 @@
 ## GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VelvetRayen&theme=tokyonight" alt="GitHub Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VelvetRayen&theme=holi&animation=rise" alt="GitHub Profile Details Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelvetRayen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VelvetRayen&theme=holi&animation=rise&duration=2" alt="GitHub Stats Card" />
 </p>
 
 ## Let's Connect
