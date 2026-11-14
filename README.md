@@ -38,8 +38,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VelvetRayen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelvetRayen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VelvetRayen&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
 ## Let's Connect
