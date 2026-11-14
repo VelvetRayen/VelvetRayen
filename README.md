@@ -35,10 +35,10 @@
 - **Problem Solving:** Logical thinking autonomy and continuous self-learning.
 - **Communication:** Active listening, human-centric vision and community marketing.
 
-## GitHub Stats
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VelvetRayen&theme=tokyonight" alt="GitHub Summary Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VelvetRayen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Let's Connect
