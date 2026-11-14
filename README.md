@@ -1,8 +1,54 @@
-README
-<h1 align="center">Hi , I'm Mohamed Rayen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm Mohamed Rayen 👋</h1>
+<h3 align="center">Computer Science Preparatory Student ·</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/medrayenmessaadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+## About Me
+
+- 🎓 First-year computer science preparatory student .
+- 🌱 I am discovering development and learning step-by-step by building small concrete  and useful projects.
+- 💡 Passionate about structured teamwork bringing "out of the box" creative ideas and creating visual materials/websites.
+- 🔎 Closely interested in **Cybersecurity** **Artificial Intelligence** and **Technical Project Management**.
+- 🎯 **Current Goal:** Exchange ideas with experienced developers improve my skills and grow as a future engineer.
+
+## Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+## Featured Projects
+
+| Project | Description | Stack |
+.................................
+
+## Soft Skills & Mindset
+
+- **Teamwork & Leadership:** Task splitting, project structuring, and adding bonus deliverables (websites & posters).
+- **Problem Solving:** Logical thinking autonomy and continuous self-learning.
+- **Communication:** Active listening, human-centric vision and community marketing.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VelvetRayen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelvetRayen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+## Let's Connect
+
+Feel free to reach out on :
+- **Email:** [medrayenmessaadi@gmail.com](medrayenmessaadi@gmail.com)
+- **LinkedIn:** [Mohamed Rayen Messaadi](https://www.linkedin.com/in/medrayenmessaadi)
