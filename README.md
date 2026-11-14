@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm Mohamed Rayen 👋</h1>
-<h3 align="center">Computer Science Preparatory Student ·</h3>
+<h1 align="center">I'm Mohamed Rayen </h1>
+<h3 align="center">Computer Science Preparatory Student </h3>
+
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/medrayenmessaadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="medrayenmessaadi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## About Me
 
-- 🎓 First-year computer science preparatory student .
-- 🌱 I am discovering development and learning step-by-step by building small concrete  and useful projects.
-- 💡 Passionate about structured teamwork bringing "out of the box" creative ideas and creating visual materials/websites.
-- 🔎 Closely interested in **Cybersecurity** **Artificial Intelligence** and **Technical Project Management**.
+-  First-year computer science preparatory student .
+-  I am discovering development and learning step-by-step by building small concrete  and useful projects.
+-  Passionate about structured teamwork bringing "out of the box" creative ideas and creating visual materials/websites.
+-  Closely interested in **Cybersecurity** **Artificial Intelligence** and **Technical Project Management**.
 - 🎯 **Current Goal:** Exchange ideas with experienced developers improve my skills and grow as a future engineer.
 
 ## Tech Stack & Tools
@@ -46,9 +48,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VelvetRayen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelvetRayen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
-
-## Let's Connect
-
-Feel free to reach out on :
-- **Email:** [medrayenmessaadi@gmail.com](medrayenmessaadi@gmail.com)
-- **LinkedIn:** [Mohamed Rayen Messaadi](https://www.linkedin.com/in/medrayenmessaadi)
